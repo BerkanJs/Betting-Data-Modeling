@@ -72,12 +72,106 @@ Amaç, kullanıcı segmentlerini anlamak, risk yönetimi yapmak ve iş stratejil
 
 ### Model Performansları
 
-| Model           | Train RMSE | Train R² | Test RMSE | Test R²  | Yorum                          |
-|-----------------|------------|----------|-----------|----------|--------------------------------|
-| Random Forest (İlk)  | 1058.17    | 0.471    | 1510.08   | -0.089   | Overfitting, kötü genelleme    |
-| Random Forest (Optimize) | 1294.46    | 0.208    | 1466.50   | -0.027   | Biraz iyileşme, halen zayıf    |
-| XGBoost          | 402.05     | 0.923    | 1863.40   | -0.746   | Çok aşırı overfitting          |
-| PCA Tabanlı Model| 208.34     | 0.979    | 495.90    | 0.883    | En iyi denge, hafif overfitting|
+## 🤖 Model Performansları
+
+### 📊 Performans Karşılaştırma Tablosu
+
+| 🧠 Model                     | 📉 Train RMSE | 📈 Train R² | 🧪 Test RMSE | 🧪 Test R² | 📝 Yorum                                                                 |
+|-----------------------------|---------------|-------------|--------------|------------|---------------------------------------------------------------------------|
+| **Random Forest (İlk)**     | 1058.17       | 0.471       | 1510.08      | -0.089     | Aşırı overfitting, model eğitim verisini ezberlemiş; testte başarısız.   |
+| **Random Forest (Optimize)**| 1294.46       | 0.208       | 1466.50      | -0.027     | Ufak iyileşme var ancak test başarısı hâlâ yetersiz.                     |
+| **XGBoost**                 | 402.05        | 0.923       | 1863.40      | -0.746     | Eğitimde mükemmel ama testte çok kötü: ciddi overfitting sorunu var.     |
+| **PCA + Random Forest**     | 208.34        | 0.979       | 495.90       | 0.883      | Boyut indirgeme sonrası yüksek başarı ve iyi genelleme.                  |
+| **PCA + Hiperparametre Opt.**| 272.00       | 0.965       | 465.82       | 0.896      | PCA sonrası tuning ile en dengeli ve güvenilir model elde edildi.        |
+
+---
+
+### 📌 Açıklamalar
+
+- 🔍 İlk kurulan **Random Forest** modeli, eğitim verisini fazla öğrenerek testte başarısız oldu (negatif R²).
+- ⚙️ Hiperparametre optimizasyonu ile model biraz iyileşti fakat hâlâ yetersizdi.
+- 🚨 **XGBoost**, aşırı güçlü olduğu için küçük veri setini ezberledi; test verisinde ciddi şekilde başarısız oldu.
+- 🧪 Bu durum, **veri setinin sınırlı boyutu** ve **özelliklerin yetersizliği** nedeniyle modellerin genelleme yapmakta zorlandığını gösteriyor.
+
+---
+
+### 🧮 PCA (Principal Component Analysis) Etkisi
+
+- PCA ile boyut indirgeme uygulandı ve yalnızca 2 bileşen kullanılarak regresyon modeli kuruldu.
+- **Açıklanan Varyans Oranları**:
+  - 🟦 PC1: %51.9
+  - 🟨 PC2: %48.1
+
+#### ✅ PCA sonrası model başarısı:
+
+
+Train RMSE: 208.34 | Train R²: 0.979
+Test RMSE: 495.90  | Test R²: 0.883
+
+
+### 📈 PCA ile Performans Artışı
+
+Bu sonuçlar, **PCA'nin** modeldeki karmaşıklığı azaltarak hem eğitim hem de test setinde yüksek performans sağladığını göstermektedir:
+
+> ✅ **Model, artık daha az değişkenle daha fazla açıklayıcılık sunabiliyor.**
+
+---
+
+### 🛠️ Hiperparametre Optimizasyonu
+
+🔍 `GridSearchCV` yöntemi ile **5-fold cross-validation** uygulanarak **216 farklı hiperparametre kombinasyonu** test edilmiştir.
+
+#### 🔧 En iyi bulunan parametreler:
+
+
+{
+  'max_depth': 10,
+  'max_features': 'auto',
+  'min_samples_leaf': 1,
+  'min_samples_split': 5,
+  'n_estimators': 300
+}
+
+## 📊 Optimize Edilmiş Model Performansı
+
+| Aşama     | RMSE    | R²      |
+|-----------|---------|---------|
+| **Train** | 272.00  | 0.965   |
+| **Test**  | 465.82  | 0.896   |
+
+🎯 **Model**, hem eğitim hem de test verisinde yüksek doğruluk sağlamıştır.
+
+🧪 **Overfitting**, önemli ölçüde azalmış; modelin genelleme gücü artmıştır.
+
+---
+
+## ✅ Genel Yorum
+
+📉 Başlangıçta kullanılan modeller istenen başarıyı sağlayamamış olsa da, analitik iterasyon süreci sonunda güçlü ve güvenilir bir model elde edilmiştir.
+
+### 📌 Başarıda Etkili Olan Faktörler:
+
+🔒 **PCA** ile olası *data leakage* risklerinin ortadan kaldırılması  
+⚙️ Modelin yapısal olarak daha basit ama daha anlamlı hale getirilmesi  
+🎛️ Hiperparametre optimizasyonu ile en uygun model konfigürasyonuna ulaşılması  
+
+---
+
+💡 Bu süreç, bir **veri bilimi projesinde** deneysel yaklaşımın, tekrarlı testlerin ve optimizasyonun ne kadar kritik olduğunu açıkça ortaya koymuştur.
+
+🎓 **Sonuç:**  
+📦 Az veri,  
+🧠 Doğru analiz,  
+🔧 Güçlü dönüşümler ile  
+📈 Anlamlı ve yüksek başarılı modeller geliştirilebilir.
+
+
+
+
+
+
+
+
 
 ---
 
