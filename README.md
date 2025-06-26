@@ -291,3 +291,4 @@ Elde edilen bulgular, kullanıcı davranışlarının anlaşılması, fraud yön
 
 Her türlü soru ve öneri için [berkanozcelik3.6@gmail.com](mailto:berkanozcelik3.6@gmail.com) adresinden ulaşabilirsiniz.
 
+
