@@ -1,0 +1,501 @@
+User_ID,Signup_Date,Bet_Amount,Region,Account_Status,Login_Count,Customer_Type
+6ffd5bf1,2023-02-11,3198.94,Africa,Active,174,Regular
+78e0e5f3,2024-05-20,129.93,Africa,Suspended,174,High-value
+f97c8068,2023-03-10,1378.77,North America,Active,152,Regular
+8c0d52dd,2024-04-10,1119.94,South America,Fraudulent,125,New
+be52ea12,2024-03-23,3683.67,Africa,Suspended,135,High-value
+a56af395,2024-10-21,3385.11,Africa,Active,171,New
+f28ca36e,2023-08-11,4461.44,Australia,Fraudulent,79,Regular
+c6156808,2024-09-06,439.26,North America,Active,12,Regular
+455dba05,2024-02-25,2112.5,North America,Suspended,57,High-value
+e696294c,2023-02-25,153.84,Australia,Fraudulent,102,High-value
+6b881fc3,2024-09-15,1097.1,South America,Active,154,Regular
+82bc6429,2023-04-18,2529.25,Europe,Active,15,New
+86a17ca4,2024-11-03,137.55,South America,Suspended,2,Regular
+ebfa5fce,2023-03-20,998.19,Europe,Suspended,53,Regular
+864ada2c,2024-01-06,3251.17,North America,Suspended,78,Regular
+32de9571,2023-07-17,2726.98,Asia,Fraudulent,55,New
+2ca9974c,2025-01-03,1106.1,South America,Fraudulent,197,New
+1e2b32af,2023-12-28,2948.38,Asia,Suspended,36,Regular
+d800fa6e,2023-03-04,4048.11,Europe,Fraudulent,196,High-value
+b1ba10c8,2024-04-02,37.46,South America,Active,66,New
+95bbf92a,2023-09-07,4030.07,Asia,Suspended,75,Regular
+b2426d31,2024-01-28,3492.21,Asia,Fraudulent,84,Regular
+b087b218,2024-10-05,1704.55,South America,Fraudulent,31,Regular
+c7072b93,2023-10-04,781.62,Asia,Suspended,2,High-value
+2ff88ec6,2023-07-18,4786.28,South America,Suspended,128,New
+a57acc9f,2023-09-03,1686.29,Asia,Fraudulent,192,Regular
+f8bf1b5e,2023-02-27,468.27,North America,Fraudulent,111,New
+a513b62d,2024-04-14,488.1,South America,Suspended,45,Regular
+dfe4dc81,2024-09-05,4238.23,North America,Fraudulent,34,Regular
+a262634d,2023-02-08,3020.61,Australia,Active,98,New
+73e49cca,2023-07-25,4036.61,Africa,Fraudulent,137,High-value
+e7a2221c,2023-11-08,3650.01,North America,Active,181,High-value
+78c9b7d4,2024-09-07,2683.46,Asia,Active,59,New
+e44bb439,2024-10-21,4865.71,Europe,Fraudulent,129,New
+5f93f912,2023-11-19,1895.78,Australia,Fraudulent,144,Regular
+a03e8cae,2023-05-23,2762.44,North America,Suspended,172,Regular
+d603976d,2023-10-30,4147.88,Australia,Active,91,New
+3a7d42aa,2023-09-01,3094.51,North America,Fraudulent,19,New
+d540784c,2023-04-29,4309.23,North America,Active,102,New
+2819a40a,2024-02-21,2888.87,Europe,Suspended,190,High-value
+3055d0ee,2024-11-02,3524.34,Europe,Active,11,High-value
+a6ee121b,2024-08-08,233.89,North America,Fraudulent,112,High-value
+cd93f5cb,2023-10-03,1143.35,Africa,Fraudulent,5,New
+86420295,2024-06-06,1450.49,Europe,Active,118,New
+24b046db,2023-04-28,403.56,Europe,Suspended,20,Regular
+4b7bd192,2023-08-12,1167.79,Europe,Active,81,High-value
+9460b396,2024-03-02,509.5,South America,Fraudulent,148,High-value
+7c7a602d,2023-03-23,1393.48,Australia,Suspended,110,High-value
+c7a45e0c,2024-03-23,3180.24,North America,Active,147,High-value
+0f540560,2025-01-22,1827.34,Africa,Active,104,New
+562c740c,2024-03-30,1854.05,Europe,Suspended,182,Regular
+a5f4d6ca,2024-12-22,1051.49,South America,Active,164,Regular
+e789630c,2024-01-09,1338.55,Australia,Suspended,107,Regular
+7ffd2a8b,2023-09-19,4683.59,Asia,Suspended,75,New
+5d6c00a2,2024-04-09,3241.94,Asia,Suspended,30,High-value
+bce230ee,2024-07-01,3047.61,Europe,Suspended,104,New
+92c65af0,2024-07-06,859.84,Africa,Active,6,High-value
+751df9b3,2023-03-26,3646.99,Africa,Active,84,New
+2e0c009c,2023-03-01,821.2,Australia,Fraudulent,44,Regular
+30003807,2024-04-03,1900.38,Australia,Suspended,159,Regular
+fbeb4d78,2023-04-11,4947.67,North America,Fraudulent,118,Regular
+ccaea43c,2023-02-02,3201.8,Europe,Fraudulent,177,Regular
+397aeb30,2025-01-19,2786.96,Asia,Active,93,High-value
+bcc9c151,2024-03-12,3424.65,North America,Active,23,New
+693d93c8,2023-07-01,4215.05,Africa,Active,112,High-value
+2601551d,2024-12-18,3881.12,North America,Active,28,New
+ac8256e1,2023-10-19,1149.1,Asia,Fraudulent,63,Regular
+c41206f3,2023-05-04,165.34,Africa,Suspended,112,Regular
+15eb918e,2024-01-21,1580.69,Australia,Fraudulent,151,Regular
+d3a0a08d,2024-06-14,1342.37,South America,Fraudulent,103,New
+71800b4c,2023-03-23,1058.86,South America,Active,135,Regular
+dfa6d8d1,2023-11-25,4714.83,Australia,Suspended,21,High-value
+fbce5f4b,2024-10-02,4382.46,Europe,Fraudulent,102,High-value
+7d0b3097,2024-09-25,1576.82,North America,Active,80,High-value
+5919b798,2024-05-06,3278.92,Africa,Active,191,New
+830053e4,2023-07-29,1981.18,Australia,Suspended,87,High-value
+8392d76a,2024-03-10,4573.17,Australia,Fraudulent,57,Regular
+c6b70df9,2023-09-16,2296.97,Europe,Suspended,86,New
+0a307453,2023-08-13,1328.08,North America,Suspended,200,Regular
+511e5c98,2023-09-16,1236.9,Australia,Suspended,44,New
+f3a444fd,2023-07-25,2809.03,Asia,Fraudulent,20,High-value
+5e54c261,2024-06-06,1317.39,Australia,Active,131,Regular
+ed329e07,2024-03-23,2925.01,Africa,Suspended,163,Regular
+96afa773,2023-10-02,4489.63,North America,Suspended,30,New
+9396780d,2024-05-11,2000.01,Africa,Fraudulent,136,Regular
+c969f501,2023-05-03,1100.51,North America,Fraudulent,131,High-value
+e4402384,2023-03-02,4987.7,Asia,Active,50,New
+c6fed0b6,2024-12-12,2550.08,Africa,Active,199,Regular
+766ac6ef,2023-01-28,459.09,South America,Suspended,90,New
+297b6168,2023-06-28,240.35,Australia,Suspended,90,Regular
+d860b269,2023-05-04,552.7,Asia,Fraudulent,187,High-value
+297f148e,2023-08-21,3139.09,North America,Suspended,166,High-value
+05916313,2023-03-05,3961.44,Africa,Fraudulent,38,High-value
+62ea895a,2024-11-08,2113.69,Australia,Suspended,61,High-value
+b60a1977,2023-05-17,322.32,Asia,Fraudulent,27,Regular
+56b25862,2023-06-28,1911.19,North America,Suspended,38,High-value
+3b4f5032,2024-05-04,4980.63,South America,Suspended,66,New
+ee27f205,2023-04-11,2647.93,South America,Suspended,51,Regular
+5704d603,2024-06-30,4855.54,North America,Active,45,High-value
+f19d904f,2023-10-30,4304.59,South America,Suspended,155,New
+01833079,2023-09-07,62.35,Asia,Suspended,40,Regular
+1e3a74be,2023-02-13,3605.01,Australia,Active,195,New
+7368c268,2023-08-10,3410.14,South America,Active,195,Regular
+91069c99,2024-04-10,2687.17,Australia,Suspended,168,New
+c2668fa8,2023-02-27,1337.79,Europe,Fraudulent,20,High-value
+2d0dfabf,2023-10-02,3206.6,South America,Suspended,46,New
+262cba76,2024-04-17,562.2,Europe,Fraudulent,198,New
+9fe564f2,2023-06-23,2176.65,Australia,Suspended,161,Regular
+7df25941,2024-11-21,2271.35,Africa,Fraudulent,127,Regular
+42e255bf,2024-02-01,4769.31,Australia,Suspended,119,High-value
+b8b15800,2023-09-05,4379.89,Asia,Active,194,New
+928a1c1d,2024-10-08,1320.63,Africa,Fraudulent,145,New
+9765c723,2024-02-02,2505.43,Africa,Suspended,195,New
+95491c56,2023-07-20,897.37,South America,Suspended,149,New
+1eba58ee,2023-02-12,4563.58,South America,Active,115,High-value
+94d07bcc,2023-05-23,4353.24,South America,Fraudulent,175,Regular
+bdfe8378,2023-10-30,1495.73,Australia,Fraudulent,145,New
+1e3aba88,2023-02-12,3196.55,Africa,Fraudulent,165,High-value
+2af76510,2023-05-06,3046.81,Asia,Active,163,High-value
+ab4111fe,2023-07-03,768.43,Asia,Fraudulent,160,High-value
+98558a1b,2024-01-28,3813.74,Europe,Fraudulent,83,High-value
+b5527f1c,2024-04-17,2699.2,North America,Suspended,161,High-value
+8423e3da,2024-02-02,3894.24,Asia,Suspended,81,Regular
+250c4686,2023-03-23,2654.12,South America,Active,39,High-value
+533d3fec,2024-05-02,7.86,Europe,Fraudulent,113,Regular
+1677750f,2024-11-13,1624.16,South America,Suspended,18,New
+58cdbe42,2023-07-29,102.29,Africa,Active,121,New
+adbfba9f,2023-12-31,4645.85,Africa,Fraudulent,114,Regular
+d3d9e5f5,2024-05-21,4394.22,Australia,Active,162,Regular
+3e9991c3,2023-03-16,4159.17,South America,Fraudulent,78,New
+7ff4c74e,2024-09-21,1541.03,Asia,Suspended,71,High-value
+b9a6c239,2023-03-05,294.34,North America,Fraudulent,152,New
+3f207422,2023-12-14,4390.66,South America,Fraudulent,15,High-value
+ac67a44e,2024-01-23,4735.01,Asia,Fraudulent,91,High-value
+99e62fa9,2023-08-30,432.84,Europe,Fraudulent,130,Regular
+7838e01d,2023-09-19,2432.52,South America,Active,19,Regular
+413be2e3,2023-03-06,350.72,Europe,Fraudulent,80,New
+fbd7f863,2024-07-02,3804.21,Asia,Active,119,New
+097937a5,2024-03-22,3830.34,Asia,Fraudulent,116,Regular
+8be77372,2023-09-29,646.32,Asia,Fraudulent,10,New
+72816e40,2023-09-21,2379.04,Asia,Active,15,Regular
+a61424b0,2024-10-18,2751.27,Africa,Suspended,95,Regular
+8134abe1,2024-01-17,1328.96,Australia,Suspended,74,New
+591d4124,2024-11-19,4362.8,Asia,Active,20,High-value
+ae7cf78d,2024-12-25,2118.57,Africa,Fraudulent,166,High-value
+4f55c9d5,2024-12-17,1062.93,North America,Suspended,24,Regular
+f2ab4913,2025-01-13,2698.78,Africa,Fraudulent,158,New
+a7c4e9de,2023-02-13,3651.01,Europe,Active,153,High-value
+2a161ac2,2024-10-19,1009.75,North America,Active,130,Regular
+5ad8e7ff,2024-05-12,1562.02,Europe,Suspended,99,Regular
+721cae0a,2023-08-01,4975.77,Australia,Suspended,119,New
+49e273f1,2024-04-17,3251.14,South America,Fraudulent,149,New
+73cd3fa5,2024-11-12,2193.31,South America,Suspended,142,Regular
+7199cf5f,2023-11-20,2590.29,Africa,Active,190,High-value
+b7413d36,2024-05-05,609.42,Europe,Active,11,New
+4c7e8744,2023-07-13,1127.36,Australia,Active,116,New
+6edd27c8,2024-07-09,1693.74,South America,Fraudulent,147,New
+ebc60e0f,2024-07-16,2943.6,Australia,Suspended,167,High-value
+21df370c,2023-09-03,1154.42,Australia,Fraudulent,49,High-value
+fc6d6072,2023-07-05,1104.99,South America,Fraudulent,83,Regular
+55cc9b8d,2024-09-13,359.61,South America,Suspended,155,New
+96c88844,2023-04-22,3157.36,North America,Active,122,High-value
+1d587a31,2023-04-16,1148.56,North America,Suspended,129,High-value
+0775fab2,2024-03-08,4527.57,Asia,Suspended,39,New
+e2fb6c83,2024-01-27,4298.88,Europe,Suspended,16,High-value
+2b050724,2024-10-28,358.93,South America,Fraudulent,116,Regular
+2766772d,2023-04-01,1193.83,Australia,Suspended,27,High-value
+3b2806d4,2024-02-23,3346.54,Europe,Active,88,High-value
+657357f5,2024-05-24,1075.11,Asia,Suspended,183,Regular
+f505fdea,2023-07-25,665.9,Australia,Active,22,New
+8df42413,2024-11-02,4677.89,Africa,Active,130,High-value
+719d730f,2024-07-22,2857.36,Asia,Active,166,Regular
+39d2dee3,2023-05-09,2365.99,South America,Fraudulent,45,New
+3c01fa4e,2024-11-28,3924.17,Africa,Fraudulent,11,Regular
+52484661,2024-06-08,4038.45,Africa,Fraudulent,64,High-value
+ee9e6ae2,2024-12-18,956.1,Asia,Suspended,182,Regular
+403a5408,2023-08-17,489.17,South America,Fraudulent,113,High-value
+6df59468,2023-02-22,2158.1,Australia,Suspended,113,New
+c3f89fb9,2023-08-04,2120.78,Africa,Active,135,New
+796d7590,2024-02-13,2337.79,Asia,Suspended,134,Regular
+0061069c,2024-06-09,3646.73,Asia,Active,157,High-value
+5a398428,2024-07-21,3368.46,Australia,Suspended,41,New
+f0e1ec77,2024-08-01,4920.91,South America,Fraudulent,94,Regular
+a7366d5a,2024-02-13,496.6,Asia,Active,96,New
+9907e0c0,2023-08-03,2016.09,Asia,Suspended,73,New
+28193242,2023-12-31,1699.82,Asia,Suspended,100,High-value
+7580100a,2023-09-02,4309.05,Europe,Fraudulent,105,New
+ac38ee8c,2023-05-21,1247.04,North America,Fraudulent,199,New
+65ed8b8a,2023-06-29,955.09,Australia,Fraudulent,87,High-value
+065b1a57,2023-10-16,2245.82,Europe,Suspended,174,New
+2f4e8cec,2024-11-06,2112.3,Asia,Fraudulent,154,New
+bd3e459b,2023-04-06,1396.33,North America,Suspended,14,High-value
+9b2ba0d3,2024-11-11,1252.78,Australia,Fraudulent,162,High-value
+3f9cde06,2023-04-26,4616.71,Africa,Suspended,166,New
+45fa0e2d,2024-06-23,2218.44,Australia,Active,86,New
+c15190d6,2023-09-25,4307.44,Europe,Fraudulent,17,New
+75cc5522,2025-01-05,2753.87,Europe,Active,85,New
+2c1df00a,2024-04-22,257.69,Europe,Suspended,25,Regular
+4021838a,2024-03-14,4996.42,Australia,Active,143,New
+cd6b400d,2025-01-18,4180.96,South America,Fraudulent,174,High-value
+98293f56,2024-10-10,4845.14,Asia,Fraudulent,99,High-value
+190d909d,2024-08-03,4632.2,Australia,Suspended,73,High-value
+c57c5cc9,2023-01-26,4244.24,Africa,Fraudulent,65,High-value
+95466fea,2023-09-29,835.72,Africa,Active,186,New
+704d3fd3,2024-06-20,2430.78,Africa,Fraudulent,169,New
+9589cdf1,2024-08-18,1072.67,Asia,Active,155,Regular
+70cbea15,2023-10-05,2008.2,North America,Fraudulent,39,New
+363887c0,2023-02-28,297.88,Europe,Suspended,86,High-value
+434d273a,2023-10-08,1897.97,Asia,Fraudulent,21,New
+a2641b5b,2024-07-16,4926.62,Europe,Suspended,150,Regular
+15dbc977,2024-08-22,1329.69,Asia,Fraudulent,170,New
+f5f8336c,2023-10-28,3921.43,Europe,Suspended,37,New
+3e423406,2023-08-02,2277.77,Asia,Active,90,High-value
+186c3068,2023-04-02,2117.92,North America,Active,80,Regular
+a09395a1,2024-12-29,4786.8,Australia,Active,168,New
+a8a59bf1,2024-07-21,4977.14,Africa,Active,179,New
+d44da4aa,2024-08-01,2781.06,Europe,Suspended,170,Regular
+179b5708,2023-12-07,3593.45,Asia,Suspended,101,New
+8c9264a2,2023-05-31,778.21,North America,Active,34,Regular
+c6a60a23,2023-12-31,1487.06,North America,Active,153,Regular
+42463524,2024-12-13,4843.7,Africa,Active,182,High-value
+df56870a,2024-03-14,2898.01,Asia,Fraudulent,22,New
+28c12f1c,2023-08-08,2713.27,Australia,Active,80,Regular
+f8f0e6f8,2023-06-12,3741.14,Europe,Suspended,144,Regular
+a5aa4151,2023-04-20,290.54,Australia,Suspended,97,Regular
+476b11a4,2023-04-15,2922.97,South America,Suspended,165,High-value
+d3feebb7,2024-08-09,2516.74,North America,Fraudulent,85,New
+1f408aa4,2023-04-01,4264.34,North America,Fraudulent,33,High-value
+6b7584e6,2024-06-18,791.38,Africa,Fraudulent,172,High-value
+4b246fd6,2023-04-24,4804.09,Asia,Fraudulent,180,Regular
+27c89d83,2023-05-09,405.16,South America,Suspended,190,Regular
+de2c775f,2024-12-05,933.2,South America,Fraudulent,176,Regular
+b6419ad7,2023-07-22,2977.2,South America,Fraudulent,135,Regular
+04e82e94,2024-05-25,3377.69,Asia,Fraudulent,24,High-value
+09563f79,2023-08-23,1179.84,Europe,Active,166,Regular
+ef5dcb00,2024-09-07,603.83,North America,Suspended,172,New
+e624a608,2024-09-29,4451.99,Asia,Fraudulent,109,High-value
+9d91237b,2024-04-28,1234.85,South America,Active,131,Regular
+50923bd7,2024-11-03,2974.62,North America,Suspended,93,New
+e12e8cd0,2025-01-17,3098.81,North America,Fraudulent,5,Regular
+d65db5f8,2024-12-30,2099.03,South America,Suspended,93,New
+09a85ae9,2024-01-30,2920.44,South America,Suspended,80,Regular
+4d62464e,2023-05-17,2616.3,North America,Active,47,Regular
+e57eab4c,2023-12-07,4673.86,Africa,Fraudulent,55,High-value
+23b527c3,2024-06-12,1025.27,Australia,Suspended,88,Regular
+ca3155c9,2023-07-06,3582.38,Australia,Active,197,New
+99a4064f,2023-05-06,1197.24,North America,Suspended,125,New
+f0519867,2023-06-25,1981.95,Europe,Suspended,50,High-value
+f065c187,2023-11-01,3360.09,Europe,Active,58,Regular
+c5e11fe3,2024-11-23,1503.49,Africa,Suspended,36,High-value
+511fe449,2024-11-03,1584.31,Asia,Active,40,Regular
+f338f81b,2023-07-06,3760.56,North America,Fraudulent,20,High-value
+30c3373b,2024-05-05,367.35,Europe,Suspended,76,Regular
+550665cc,2023-08-27,2294.14,North America,Fraudulent,26,Regular
+dc56d7f6,2024-10-24,4992.28,Africa,Fraudulent,130,High-value
+2452db0f,2023-08-11,4980.5,South America,Suspended,198,High-value
+8092d748,2024-02-28,370.94,Africa,Active,139,High-value
+2702558f,2023-02-06,1069.71,Africa,Suspended,190,High-value
+36831699,2024-11-08,1329.68,Africa,Suspended,135,Regular
+83a3eca6,2023-04-25,4666.63,Europe,Active,10,Regular
+cb51aeed,2023-03-21,4404.92,Africa,Active,170,New
+319f16a2,2024-05-06,4396.95,South America,Suspended,87,Regular
+aa4542bc,2023-03-29,1850.79,South America,Active,197,High-value
+c0e5b9f9,2024-05-07,792.95,South America,Fraudulent,159,High-value
+2df4ecaa,2024-01-11,4169.56,Asia,Active,34,Regular
+b397b4e5,2023-04-20,3519.18,Africa,Fraudulent,153,New
+d3f04f94,2023-06-03,3060.33,South America,Fraudulent,97,New
+a758cbe2,2024-11-18,4936.23,Asia,Fraudulent,40,Regular
+aacd6027,2024-09-24,3271.61,Africa,Active,42,High-value
+05bc7b77,2023-11-09,44.08,Africa,Active,47,High-value
+1c24c161,2024-08-01,4086.44,North America,Suspended,178,Regular
+a19cad9c,2024-10-04,1500.4,Africa,Active,198,New
+394582f9,2023-08-12,3318.63,Australia,Active,160,Regular
+ff667438,2023-05-18,4694.96,North America,Fraudulent,43,Regular
+c8f0d30f,2024-02-10,675.78,Europe,Active,185,Regular
+d47af008,2024-04-09,581.57,Australia,Active,113,Regular
+bbc35256,2024-12-14,539.64,Europe,Fraudulent,12,High-value
+69b540df,2024-10-03,2768.35,Asia,Active,106,High-value
+fc55e549,2024-07-13,1365.38,Australia,Fraudulent,94,Regular
+8fc1ae3c,2024-11-04,3026.12,North America,Active,174,New
+ee977da6,2024-03-29,3589.47,Europe,Active,185,Regular
+a2df1089,2024-04-05,1021.97,Europe,Suspended,61,High-value
+e6e324ba,2024-03-23,3173.02,Europe,Active,114,High-value
+e2fd146f,2024-01-24,1323.6,Africa,Fraudulent,157,New
+de21353f,2023-08-05,2445.22,North America,Active,73,Regular
+611421d0,2023-03-15,4527.16,Europe,Suspended,193,High-value
+ae0ecf4c,2023-10-16,4231.29,North America,Active,192,High-value
+0b0eb78f,2024-11-27,466.03,South America,Active,115,Regular
+339a65d6,2023-07-31,2120.76,South America,Fraudulent,60,Regular
+f58e4f96,2023-02-17,1387.02,Australia,Suspended,137,New
+3d059189,2024-05-16,22.71,Africa,Active,62,New
+9be41f87,2023-01-29,3856.74,South America,Active,80,New
+ba244e5b,2024-02-22,3187.38,Asia,Fraudulent,121,Regular
+2b297673,2023-05-27,1313.47,North America,Active,50,Regular
+2a4972a5,2023-09-20,3707.45,Europe,Active,95,New
+26a00e28,2024-01-21,2760.64,Asia,Active,174,High-value
+7c82569b,2023-11-20,2141.3,Australia,Suspended,147,High-value
+3c0ec9a4,2024-07-20,53.3,Asia,Active,113,Regular
+3c049990,2023-11-30,380.84,Australia,Fraudulent,119,High-value
+e015bee8,2024-09-22,4416.12,South America,Suspended,197,Regular
+cb50fc9c,2023-08-19,4520.12,North America,Active,73,New
+be2008c4,2023-03-08,2730.22,Australia,Active,200,Regular
+becc8a86,2024-05-26,4173.8,Europe,Suspended,98,Regular
+aa0b5c2e,2024-04-17,2914.64,Asia,Active,129,Regular
+a6e5f39f,2024-04-01,744.73,Australia,Active,136,High-value
+35bc4b8c,2024-07-01,641.59,Africa,Fraudulent,108,Regular
+890e4fce,2024-02-06,1544.75,Australia,Suspended,42,High-value
+ec482291,2023-09-22,4495.41,Europe,Fraudulent,52,New
+e1d7c9a9,2024-02-12,3981.63,South America,Active,155,New
+94e153e4,2023-12-13,4304.21,North America,Fraudulent,36,High-value
+87d4d7a0,2024-05-14,4495.13,Africa,Active,65,Regular
+16f56770,2023-12-28,1054.33,Europe,Suspended,14,New
+cf5bf883,2024-09-08,1251.4,Australia,Suspended,165,Regular
+dd22d8f1,2023-10-01,518.45,Europe,Suspended,124,High-value
+80ce958e,2024-01-17,3901.68,Asia,Fraudulent,96,Regular
+221df6ec,2023-11-05,4421.25,Europe,Fraudulent,142,New
+ee1996e0,2023-10-05,2034.86,North America,Active,27,Regular
+060dbd75,2024-08-16,3105.2,North America,Suspended,183,New
+2ab84383,2023-06-23,776.99,Europe,Fraudulent,133,Regular
+1890c50c,2023-11-28,4649.76,Asia,Active,32,New
+126cc8d5,2023-07-09,4323.71,Africa,Fraudulent,73,New
+15ecc133,2023-04-05,4881.15,Australia,Active,22,New
+f398c9b5,2023-03-07,4054.8,Africa,Fraudulent,196,High-value
+b0ebef4a,2025-01-21,4407.67,Asia,Fraudulent,42,High-value
+13fcc187,2024-10-22,128.81,South America,Fraudulent,70,High-value
+3b6c4a54,2025-01-22,3684.14,North America,Suspended,116,Regular
+356a058a,2024-03-14,1664.27,South America,Suspended,132,Regular
+6c8d67ab,2024-06-08,4654.43,Australia,Fraudulent,38,Regular
+21d5b6b6,2023-05-30,4012.16,Asia,Active,112,New
+c02ffbac,2024-06-24,4321.0,Australia,Active,24,Regular
+03e6f9e7,2024-08-26,4054.69,South America,Suspended,57,High-value
+bf1131d5,2024-04-02,1337.69,Asia,Suspended,116,High-value
+b87ee7cf,2023-06-20,3937.94,Africa,Suspended,90,New
+8d0cf17a,2023-12-13,544.94,Africa,Fraudulent,7,New
+2e30ae1f,2023-11-25,4361.47,South America,Active,107,Regular
+42befce2,2024-10-01,4293.67,South America,Suspended,14,New
+fc11a405,2024-07-08,1116.06,North America,Fraudulent,102,High-value
+3e2c5210,2024-06-15,4083.85,Africa,Suspended,129,High-value
+c58b6684,2023-03-09,2304.21,North America,Active,96,High-value
+d420f48b,2023-08-14,1529.43,South America,Active,61,High-value
+f3d976ea,2024-04-24,3977.75,Australia,Suspended,99,New
+8e02d56e,2024-12-26,1141.84,Asia,Fraudulent,21,Regular
+ad34d302,2024-06-29,123.2,Africa,Active,96,Regular
+6eadb021,2024-08-11,969.68,Asia,Active,58,New
+0fff82bb,2023-12-09,1644.67,North America,Active,8,Regular
+7b7fcde1,2024-08-20,4322.44,North America,Suspended,82,High-value
+b58d5723,2024-02-27,4834.61,Europe,Fraudulent,26,New
+dd823d77,2023-03-23,1399.23,Australia,Fraudulent,183,New
+00749877,2024-08-19,3209.2,Africa,Fraudulent,167,High-value
+fd8c27f4,2024-09-09,2001.39,Africa,Fraudulent,86,Regular
+53f2d5f1,2024-09-11,4905.84,North America,Fraudulent,38,New
+3cd7bf32,2024-03-01,2683.4,Australia,Suspended,36,Regular
+6382f763,2024-01-14,4696.49,Asia,Suspended,10,High-value
+c206ee09,2023-03-15,581.13,Africa,Fraudulent,74,Regular
+18dc3a7f,2024-11-26,4852.15,North America,Fraudulent,121,New
+572af3ca,2024-05-02,896.95,Europe,Suspended,179,New
+ab9fb776,2023-02-02,4812.86,South America,Suspended,36,Regular
+f6ed3320,2023-05-07,1331.0,Africa,Fraudulent,195,New
+499bbaec,2024-07-11,546.47,Australia,Fraudulent,181,Regular
+2d274765,2025-01-01,2175.65,South America,Suspended,121,New
+dbbdc120,2025-01-10,3644.08,Asia,Active,115,New
+366aa769,2024-02-17,1571.82,Europe,Fraudulent,158,New
+cb0c2b69,2023-12-30,3033.01,Africa,Active,2,Regular
+820a7420,2023-04-16,2559.56,South America,Fraudulent,21,New
+c85ed97f,2024-03-06,1929.05,Australia,Fraudulent,5,New
+b0fa676e,2024-04-24,2885.06,South America,Fraudulent,66,Regular
+db54eb44,2023-10-18,1277.34,North America,Fraudulent,56,Regular
+c4468af7,2024-07-11,3545.38,South America,Active,39,High-value
+3007e084,2024-12-29,13.45,Asia,Suspended,141,Regular
+ea7ae1df,2023-09-04,4628.25,South America,Suspended,187,Regular
+42af09d4,2023-11-17,2694.57,Asia,Active,156,New
+c449327e,2023-09-01,3598.55,Asia,Suspended,136,High-value
+aa22b9c8,2023-12-27,3711.04,Australia,Suspended,109,Regular
+c487ea92,2023-05-10,3354.79,North America,Suspended,29,New
+60c384b8,2024-01-28,1824.29,Europe,Suspended,199,Regular
+abdb94d5,2024-11-16,354.52,Asia,Suspended,74,New
+bf9b0a1c,2023-02-19,3322.87,South America,Fraudulent,61,New
+ad7a463c,2023-11-09,1654.35,Australia,Active,78,New
+644355b2,2024-03-12,1573.01,South America,Suspended,32,High-value
+e1f0d259,2024-07-14,4240.84,Asia,Suspended,13,New
+c566daaf,2024-07-26,3600.17,Australia,Suspended,62,Regular
+2a01aa43,2024-01-28,1505.11,South America,Fraudulent,108,Regular
+c42b5064,2024-06-06,1549.88,Africa,Suspended,164,New
+84544999,2024-11-24,2044.92,North America,Suspended,160,New
+cb1d3ca9,2023-04-25,2014.99,South America,Active,118,New
+74289283,2024-01-20,1481.8,North America,Fraudulent,17,High-value
+c6b3553a,2024-07-06,640.8,Asia,Suspended,29,New
+00547aba,2023-09-23,2105.13,Asia,Active,128,High-value
+dfc3494b,2023-06-16,4702.12,Asia,Active,153,New
+5e97a886,2024-03-08,3388.2,North America,Active,138,Regular
+353be4e2,2023-11-20,4514.51,South America,Active,5,High-value
+1a8c4c72,2024-03-29,3079.5,Africa,Suspended,162,New
+d2f5c586,2023-09-08,1508.24,North America,Active,132,New
+6bb8dff5,2023-02-16,2741.95,Australia,Fraudulent,148,New
+1aa81319,2023-11-08,7.03,Africa,Fraudulent,62,New
+ea411e94,2023-07-10,1438.13,South America,Suspended,184,Regular
+9c5d6ae6,2024-08-18,2152.29,South America,Active,37,High-value
+b076af76,2023-12-03,2902.02,North America,Fraudulent,75,New
+fbdb6ace,2023-03-01,3275.25,Europe,Active,110,High-value
+a69c339a,2024-09-05,2327.62,Africa,Fraudulent,1,High-value
+55bb34aa,2023-06-30,2213.59,Asia,Fraudulent,158,New
+af2d1847,2024-11-20,1072.44,Africa,Fraudulent,91,New
+7ea499bf,2023-06-20,2368.56,South America,Suspended,62,High-value
+520ea37f,2024-09-01,4506.4,Australia,Fraudulent,147,High-value
+d4c03992,2023-03-04,3981.14,South America,Active,107,High-value
+67fb4074,2023-06-17,852.61,North America,Suspended,48,Regular
+4c209ed6,2024-11-23,428.55,Europe,Suspended,171,Regular
+b0ee937b,2025-01-11,2579.68,Asia,Fraudulent,172,Regular
+081584a4,2023-10-19,3166.54,Africa,Suspended,22,High-value
+069e363f,2023-10-19,1679.27,Europe,Fraudulent,135,Regular
+ac678c7b,2023-01-25,4093.03,Asia,Active,93,New
+ea782ed3,2023-06-12,3756.93,South America,Suspended,18,High-value
+c6695041,2024-10-25,3365.61,Australia,Fraudulent,135,Regular
+67c5a49b,2023-05-28,1127.08,South America,Suspended,140,New
+5c1f01ee,2023-04-01,999.65,North America,Suspended,130,New
+a71caa44,2024-11-02,127.0,North America,Active,130,Regular
+19fe49bf,2024-08-17,1227.99,Australia,Fraudulent,142,New
+0a6e615f,2023-06-19,2378.31,Africa,Fraudulent,6,New
+074e096f,2024-02-14,4249.44,Europe,Active,100,High-value
+f8fe2677,2023-11-06,368.78,Australia,Active,121,New
+8b30d1c4,2024-08-31,2075.13,Europe,Fraudulent,12,High-value
+0cb3aa45,2024-01-06,3150.68,Asia,Suspended,163,New
+d4798be7,2023-05-13,976.2,Africa,Active,100,High-value
+ea69f6a7,2023-02-16,3483.29,North America,Active,96,New
+8e06a4f0,2024-11-02,2474.41,Africa,Suspended,65,Regular
+90b41b8e,2024-11-26,1223.7,South America,Fraudulent,192,New
+a9fdd137,2023-07-19,3282.01,North America,Suspended,5,Regular
+4687fa4d,2024-01-20,32.7,Europe,Active,92,New
+8c724be1,2024-09-26,3756.07,North America,Suspended,18,Regular
+dda831a8,2024-12-13,3851.38,South America,Fraudulent,89,Regular
+41754bd7,2024-09-28,537.4,North America,Active,62,High-value
+177f6ea4,2024-01-24,2128.61,Australia,Suspended,188,Regular
+23d8b448,2023-02-13,883.55,Europe,Fraudulent,169,New
+28e04cca,2023-04-02,4790.04,South America,Fraudulent,161,Regular
+ec6b0ef9,2024-02-12,2592.2,Australia,Fraudulent,27,New
+181b3c58,2024-09-19,255.84,Asia,Fraudulent,198,Regular
+94a7af75,2024-10-20,1249.75,Africa,Fraudulent,149,New
+aad9eeb3,2023-12-26,4242.44,Australia,Fraudulent,189,New
+77bba630,2024-02-26,2285.03,Asia,Active,194,New
+472a8cec,2023-03-21,4008.08,South America,Fraudulent,86,New
+3e7dd3d1,2024-10-01,3339.55,South America,Fraudulent,35,New
+10965b59,2023-10-22,4939.52,South America,Fraudulent,12,Regular
+fdfc6e6a,2024-01-13,2979.28,Europe,Suspended,91,New
+0c348345,2024-04-15,4750.45,South America,Active,140,Regular
+f2012605,2023-11-26,4457.67,Africa,Active,87,High-value
+fa8bbfb1,2023-07-27,3065.2,Europe,Suspended,165,High-value
+b8e18725,2024-05-22,3597.77,South America,Fraudulent,45,Regular
+f71d3f40,2024-06-11,2526.37,Europe,Suspended,200,New
+588bb8c0,2024-03-21,4153.69,Africa,Suspended,176,Regular
+f258aa51,2024-08-28,2741.62,Africa,Suspended,119,High-value
+833c51bb,2024-08-25,4486.55,Australia,Active,179,Regular
+a1bd4e1d,2024-08-11,3719.56,Europe,Active,123,Regular
+bebb5df2,2024-05-26,2376.0,North America,Active,162,New
+48b84bfb,2023-10-07,1299.66,Asia,Fraudulent,47,High-value
+ee10ae62,2024-07-28,1239.96,South America,Fraudulent,35,New
+d60c8e13,2024-12-04,3190.12,Asia,Suspended,17,New
+0dbcb972,2024-05-15,3830.24,Africa,Active,184,Regular
+5486c0a3,2023-12-06,2608.89,Asia,Active,199,Regular
+26117efb,2024-09-19,3135.61,North America,Fraudulent,118,Regular
+b9b99c93,2024-07-21,1376.61,Asia,Fraudulent,10,Regular
+2f92cafb,2023-11-17,392.03,Australia,Active,76,New
+595cef1a,2023-07-12,1432.21,Asia,Active,52,New
+bafe1987,2025-01-06,1362.22,Africa,Fraudulent,12,Regular
+b9b2ba07,2024-12-13,1601.95,Africa,Fraudulent,52,Regular
+6a16e1ea,2023-10-07,2703.06,Australia,Active,11,High-value
+58df06e9,2023-08-03,696.18,South America,Suspended,81,New
+f554d5bc,2023-02-03,1160.15,Europe,Suspended,80,New
+b3ac2d10,2024-02-01,3471.28,South America,Suspended,132,New
+ac8136f3,2023-12-19,3533.56,Africa,Suspended,102,Regular
+87f956d2,2023-09-28,325.82,South America,Active,140,Regular
+fa6b45fc,2024-09-16,2040.96,Asia,Suspended,122,Regular
+04e180bd,2023-07-31,2715.34,Asia,Suspended,65,High-value
+6630b842,2023-10-01,2081.79,Africa,Fraudulent,10,Regular
+b1b4107d,2023-05-07,1038.14,Africa,Suspended,193,High-value
+ed996ca7,2023-05-14,2103.62,South America,Fraudulent,166,Regular
+66dbc8d0,2024-10-13,4524.67,South America,Fraudulent,49,New
+3a182700,2024-11-08,2922.48,Asia,Active,74,High-value
+d5f42666,2024-01-15,3479.14,Europe,Active,92,Regular
+54921ef6,2024-03-11,4284.38,Australia,Active,200,Regular
+3797d5bc,2024-03-13,3829.14,Europe,Active,13,New
+c7abd37f,2024-09-08,1905.0,Africa,Fraudulent,168,Regular
+c3ef1105,2023-07-21,34.45,South America,Active,85,New
+5ddebbfd,2024-01-30,1762.04,Europe,Fraudulent,70,Regular
+27cb1a92,2023-10-13,3768.61,South America,Active,32,High-value
+b05615b8,2023-07-19,4267.97,North America,Suspended,95,High-value
+516b4ce9,2024-11-14,4767.38,Asia,Suspended,112,New
+48983c07,2023-06-12,2098.01,Australia,Fraudulent,103,Regular
+50326778,2024-09-26,3738.84,South America,Suspended,191,New
+75a25519,2024-07-12,2732.93,Australia,Suspended,113,New
+818b737a,2024-09-12,3018.25,South America,Fraudulent,99,Regular
+c71b4805,2023-09-11,1106.59,South America,Suspended,87,High-value
+b0b6ff31,2023-06-13,1101.01,Australia,Suspended,48,High-value
+26874b1d,2023-11-29,2182.0,Australia,Suspended,128,New
+97f8888a,2024-10-29,149.98,Europe,Active,178,New
+d9fc791b,2023-05-05,1683.97,South America,Fraudulent,128,New
+456c6461,2023-10-02,3397.31,North America,Active,95,High-value
+f12bd9f3,2024-08-30,2024.56,Europe,Suspended,133,High-value
+ff0073ad,2023-10-01,829.4,Africa,Suspended,69,High-value
+be2ebac3,2023-08-21,2339.61,Africa,Active,22,New
+cb1c67fd,2023-05-28,642.5,Asia,Suspended,187,New
