@@ -35,16 +35,22 @@ Amaç, kullanıcı segmentlerini anlamak, risk yönetimi yapmak ve iş stratejil
 
 ## 📈 Veri Analizi Özeti ve Model Önerileri
 
-| Analiz Başlığı          | Özet                                                      |
-|------------------------|-----------------------------------------------------------|
-| Bet_Amount & Login_Count | Normal dağılım göstermiyor; simetrik ve platykurtik dağılım var. |
-| Korelasyon             | Login_Count ile Bet_Amount arasında anlamlı ilişki yok.   |
-| Kategorik Değişkenler  | Region, Account_Status, Customer_Type ile Bet_Amount arasında anlamlı fark yok. |
-| Varyans Homojenliği    | Kategorik gruplar arasında varyans eşitliği sağlanıyor (Levene testi). |
-| Bilgi Katkısı (Mutual Info) | Genel olarak düşük, Customer_Type_High-value en yüksek bilgi katkısı. |
-| Çoklu Bağlantı (VIF)   | Bet_Amount ve Login_Count arasında çoklu bağlantı yok (VIF ~ 2.25). |
-| Model Önerisi          | Parametrik olmayan modeller, veri dönüşümleri ve tree-based modeller önerilir. |
-| İş Zekası Önerisi      | Detaylı veri ve yeni özelliklerle model başarısı artırılabilir. |
+| 🔍 Analiz Başlığı             | 🧪 Test / Yöntem                        | 📊 Sonuç / İstatistik                       | 📌 Yorum / Açıklama                                           |
+|------------------------------|----------------------------------------|--------------------------------------------|--------------------------------------------------------------|
+| 📏 **Dağılım Kontrolleri**     | Shapiro-Wilk Testi                     | Bet_Amount p=1.01e-11 / Login_Count p=3.59e-11 | Normal dağılım yok, non-parametrik yöntem önerilir.         |
+|                              | Çarpıklık (Skewness)                   | Bet=0.032 / Login=-0.031                   | Değişkenler simetrik.                                        |
+|                              | Basıklık (Kurtosis)                    | Bet=-1.229 / Login=-1.170                  | Her iki dağılım da düz (platykurtik).                        |
+| 🔗 **Değişken İlişkileri**     | Spearman Korelasyon                    | -0.0387, p=0.388                            | Bet_Amount ile Login_Count arasında ilişki yok.              |
+|                              | Kendall's Tau                          | -0.0237, p=0.430                            | Anlamsız ilişki, lineer model uygun değil.                   |
+| ⚖️ **Varyans Homojenliği**     | Levene Testi                           | p > 0.4 tüm gruplar                         | Region, Account_Status ve Customer_Type için eşit varyans.   |
+| 🧩 **Gruplar Arası Fark**       | Kruskal-Wallis                         | Tüm p > 0.17                                | Bet_Amount gruplara göre anlamlı farklılık göstermiyor.      |
+| 🧠 **Bilgi Katkısı (MI)**       | Mutual Information                     | Max: Customer_Type_High-value = 0.0186     | Genelde düşük, fakat High-value kullanıcı en anlamlı.        |
+|                              |                                        | Diğer değişkenler ≤ 0.0066                 | Çok düşük bilgi katkısı → feature engineering önerilir.      |
+| 🧮 **Kategorik İlişki**         | Ki-Kare & Cramér's V                   | Tüm p > 0.3, V ≈ 0                          | Kategorik değişkenler arasında anlamlı ilişki yok.           |
+| 🔁 **Çoklu Bağlantı (VIF)**     | VIF Analizi                            | Bet_Amount = 2.25 / Login_Count = 2.25     | Multicollinearity yok, model için güvenli.                  |
+| ✅ **Model Önerisi**           | -                                      | -                                          | Parametrik olmayan ve ağaç tabanlı modeller önerilir.        |
+| 📊 **İş Zekâsı Yorumu**         | -                                      | -                                          | Bet_Amount'ı etkileyen güçlü prediktörler eksik.             |
+
 
 ---
 
