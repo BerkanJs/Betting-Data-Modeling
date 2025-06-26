@@ -271,13 +271,10 @@ Elde edilen bulgular, kullanıcı davranışlarının anlaşılması, fraud yön
 
 ```plaintext
 /
-├── data/                 # Veri setleri
-├── notebooks/            # Analiz ve modelleme Jupyter notebookları
-├── models/               # Eğitilmiş modeller
-├── reports/              # Analiz raporları ve görseller
-├── src/                  # Kaynak kodlar
-├── README.md             # Proje dokümantasyonu
-└── requirements.txt      # Python paket gereksinimleri
+├── ModelSüreci              
+├── HipotezTestleri           
+├── KaynakData      
+├── README.md           
 
 ## 🛠️ Teknolojiler & Kütüphaneler
 
